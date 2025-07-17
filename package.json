@@ -1,0 +1,41 @@
+{
+  "name": "base-development-extension-pack",
+  "displayName": "Dongxu's Base Development Extension Pack",
+  "description": "A comprehensive collection of essential VS Code extensions designed to enhance your daily development workflow and productivity.",
+  "version": "0.1.0",
+  "publisher": "yandongxu",
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#C80000",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "wmaurer.change-case",
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "editorconfig.editorconfig",
+    "alefragnani.bookmarks",
+    "alefragnani.project-manager",
+    "gruntfuggly.todo-tree",
+    "bierner.markdown-mermaid",
+    "redhat.vscode-yaml"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yandongxu/vscode-base-extension-pack.git"
+  },
+  "homepage": "https://github.com/yandongxu/vscode-base-extension-pack/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/yandongxu/vscode-base-extension-pack/issues"
+  }
+}
