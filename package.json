@@ -2,7 +2,7 @@
   "name": "base-development-extension-pack",
   "displayName": "Dongxu's Base Development Extension Pack",
   "description": "A comprehensive collection of essential VS Code extensions designed to enhance your daily development workflow and productivity.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "yandongxu",
   "license": "MIT",
   "galleryBanner": {
@@ -10,7 +10,7 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.100.0"
+    "vscode": "^1.14.0"
   },
   "categories": [
     "Extension Packs"
@@ -39,3 +39,4 @@
     "url": "https://github.com/yandongxu/vscode-base-extension-pack/issues"
   }
 }
+
